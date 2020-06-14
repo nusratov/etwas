@@ -1,0 +1,96 @@
+* {
+        box-sizing: border-box;
+        margin:0;
+        padding: 0;
+      }
+
+      body {
+        font-family: 'Raleway', sans-serif;
+        color: #fff;
+        line-height: 1.8;
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      .containerr {
+        margin: 30px auto;
+        max-width: 400px;
+        padding: 20px;
+        /* border: 1px #ddd solid;
+        border-radius: 8px; */
+
+      }
+      .status{
+        margin: 0 1px;
+      }
+      #courses .form-wrap{
+        border: 1px #ddd solid;
+        border-radius: 8px;
+        
+
+      }
+
+      .form-wrap {
+        background: #fff;
+        padding: 10px 50px;
+        color: #333;
+      }
+
+      .form-wrap h1,
+      .form-wrap p {
+        text-align: left;
+        font-family: sans-serif;
+      }
+      .form-wrap a{
+        margin-top: 55px;
+        font-size: 10pt;
+      }
+
+      .form-wrap .form-group {
+        margin-top: 1px;
+      }
+
+      
+      .form-wrap .form-group input {
+        width: 100%;
+        padding: 8px;
+        border: #ddd 1px solid;
+
+        border-radius: 5px;
+        margin-bottom: -8px;
+
+      }
+      .form-wrap .form-group input:hover{
+        color: #4717f6;
+      }
+
+      .form-wrap button {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        margin-top: 20px;
+        cursor: pointer;
+      }
+
+     
+
+      .form-wrap .bottom-text {
+        font-size: 12pt;
+        margin-top: 20px;
+      }
+      #courses{
+        float: right;
+        padding-right: 15px;
+      }
+      .custom-control{
+        padding-top: 6px;
+        padding-bottom: 7px;
+
+      }
+      .custom-control label{
+        font-size: 10pt;
+
+      }
+     
